@@ -23,3 +23,6 @@
     - dashboard - contains dashboard
     - global - contains Topbar & Sidebar which is commmon in all globally
 - theme.js - for typography and light/dark mode
+
+## Extras
+- used Tailwind shades extension for generating different shades of color, cmd+k and cmd+g
