@@ -26,3 +26,4 @@
 
 ## Extras
 - used Tailwind shades extension for generating different shades of color, cmd+k and cmd+g
+- MUI Icons website to choose icons - https://mui.com/material-ui/material-icons/ 
