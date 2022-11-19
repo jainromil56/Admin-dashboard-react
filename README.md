@@ -16,3 +16,10 @@
 ## Data
 - mockGeoFeatures.js - for neo-charts data
 - mockData.js
+
+## Folder structure
+- components folder - have components which are used in more than one place, like graphs
+- scenes 
+    - dashboard - contains dashboard
+    - global - contains Topbar & Sidebar which is commmon in all globally
+- theme.js - for typography and light/dark mode
