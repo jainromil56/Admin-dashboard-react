@@ -1,4 +1,7 @@
 # Admin Dashboard 
+- You can go through recorded videos to understand code and commits in better way - https://www.youtube.com/watch?v=ywRezvS-ZsM&list=PL3-Gbdo284yak7b_nKxVmDWhnMl0ezMx4&index=1
+
+## Libraries used
 - used react, material UI - https://mui.com/material-ui/getting-started/installation/
 - react-pro-sidebar - to create sidebar easily - https://www.npmjs.com/package/react-pro-sidebar
 - react-router-dom@6 - for routing https://v5.reactrouter.com/web/guides/quick-start
@@ -10,7 +13,7 @@
 - nivo-charts - https://nivo.rocks/ - for charts, In their website you can go and click and follow steps to add any type of chart you want, we have used `@nivo/core @nivo/pie @nivo/line @nivo/bar @nivo/geo`
 - used google fonts - Source Sans Pro
 
-- whole cmd - `npm install @mui/material @emotion/react @emotion/styled @mui/x-data-grid @mui/icons-material react-router-dom@6 react-pro-sidebar formik yup @fullcalendar/core @fullcalendar/daygrid @fullcalendar/timegrid @fullcalendar/list @nivo/core @nivo/pie @nivo/line @nivo/bar @nivo/geo`
+- whole cmd - `yarn add @mui/material @emotion/react @emotion/styled @mui/x-data-grid @mui/icons-material react-router-dom@6 react-pro-sidebar formik yup @fullcalendar/core @fullcalendar/daygrid @fullcalendar/timegrid @fullcalendar/list @nivo/core @nivo/pie @nivo/line @nivo/bar @nivo/geo`
 
 
 ## Data
