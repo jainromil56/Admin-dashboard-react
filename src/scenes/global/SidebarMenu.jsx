@@ -52,13 +52,19 @@ const SidebarMenu = () => {
           backgroundColor: "transparent !important",
         },
         "& .pro-inner-item": {
-          padding: "5px 35px 5px 20px !important",
+          padding: "5px 5px 5px 20px !important",
+          display: "flex",
         },
         "& .pro-inner-item:hover": {
-          color: "#868dfb !important",
+          color: `${colors.grey[100]} !important`,
+        },
+        "& .MuiBox-root":{
+          padding: "0 10px 0 10px !important"
         },
         "& .pro-menu-item.active": {
-          color: "#6870fa !important",
+          color: "#fffff !important",
+          backgroundColor: `${colors.blueAccent[500]} !important`,
+          borderRadius: "20px"
         },
       }}
     >
@@ -110,7 +116,7 @@ const SidebarMenu = () => {
                 >
                   Kevin Josh
                 </Typography>
-                <Typography variant="h5" color={colors.greenAccent[500]}>
+                <Typography variant="h5" color={colors.greenAccent[300]}>
                   Sr. Software Engineer
                 </Typography>
               </Box>
